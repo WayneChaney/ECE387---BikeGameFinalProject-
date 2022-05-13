@@ -12,3 +12,5 @@ The Arduino Leonardo was difficult to find so we used an off-brand which was com
 
 Other than that all we needed was a bike and a stationary stand to hold the bike to attatch the sensors to.
 We could then attach the arduino to a computer which we had an app called Blue Stacks in order to play the andriod games like Subway Surfers.
+
+The Final Report can be seen in the wiki section under the "Report" labeled pages.
